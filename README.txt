@@ -1,15 +1,22 @@
-HANA PRODUCTIONS PAGE
+HANA — PAGE 07: EVENTS & PERFORMANCES
 
-Files included:
-- productions.html
-- productions.css
-- productions.js
-- README.txt
+Included files:
+- events.html
+- events.css
+- events.js
 
-Add these files to the ROOT of your existing HANA GitHub repository. Do not delete or replace your existing files. Open productions.html to view this page.
+Add these files beside the other HANA website pages. The page navigation expects:
+index.html, about.html, creative-world.html, academy.html, services.html,
+productions.html, events.html, gallery.html and contact.html.
 
-Navigation assumes the other pages use these filenames: index.html, about.html, creative-world.html, academy.html, services.html, events.html, gallery.html and contact.html.
+This page focuses on presenting performances and creating experiences for audiences.
+The Productions page focuses on developing and directing the creative work.
 
-Gallery panels are placeholders for future HANA production photographs. School annual-day productions are identified as established experience; other formats are positioned as broader creative possibilities.
+The Moments on Stage gallery tiles are placeholders for real HANA event and
+performance photographs. Replace them when those photographs are available.
 
-WhatsApp enquiry link: +91 9900006906.
+WhatsApp: https://wa.me/919900006906
+Email: hellohana.in@gmail.com
+Instagram: https://www.instagram.com/__hana.in/
+
+No existing website files are modified by this package.
